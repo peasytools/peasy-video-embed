@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# PeasyVideo Embed Widget
+# Main site: https://peasyvideo.com
+# Widget docs: https://widget.peasyvideo.com
+# npm: https://www.npmjs.com/package/peasy-video-embed
